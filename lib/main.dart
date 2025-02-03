@@ -15,8 +15,7 @@ import 'firebase_options.dart'; // TODO: Create this using flutterfire cli tool
 import 'theme.dart';
 
 // Future<void> main() async {
-//   WidgetsFlutterBinding.ensureInitialized();
-//   await Firebase.initializeApp(
+//  c
 //     options: DefaultFirebaseOptions.currentPlatform,
 //   );
 
